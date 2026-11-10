@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Abrish 👋
 
-<!--
-**abri5798/abri5798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer and a Computer Science 3rd year student.
 
-Here are some ideas to get you started:
+## Skills (Basics)
+- C++
+- Java
+- SQL
+- Cisco networking
+- Web development (HTML, CSS, JavaScript)
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build intermediate projects
+- Grow my skills in programming and networking
+
+## Contact
+- Email: abrish.t640@gmail.com
